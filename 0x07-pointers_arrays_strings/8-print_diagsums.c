@@ -4,7 +4,8 @@
  * print_diagsums - print the sum of the two
  *                 diagonals of a square matrix
  *                 of integers.
- * 
+ * @a: input pointer
+ * @size: size of the matrix 
  * Return: nothing
 */
 
