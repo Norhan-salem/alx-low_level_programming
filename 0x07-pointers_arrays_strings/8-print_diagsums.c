@@ -5,7 +5,8 @@
  *                 diagonals of a square matrix
  *                 of integers.
  * @a: input pointer
- * @size: size of the matrix 
+ * @size: size of the matrix
+ *
  * Return: nothing
 */
 
